@@ -7,6 +7,11 @@ align-items: center;
 
 }
 .img01{
-width: 90%
+   width: 90%
+}
 
+button{
+ background-color: black;
+color: cornflowerblue;
+padding: 25px;
 }
