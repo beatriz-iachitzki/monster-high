@@ -1,0 +1,12 @@
+    body{
+background-color: blueviolet;
+ color: aquamarine;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.img01{
+width: 90%
+
+}
